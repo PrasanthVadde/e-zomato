@@ -1,5 +1,5 @@
 import CustomCard from "../components/card"
-import NavBar from "../components/navBAr"
+import NavBar from "../components/navBar"
 
 const HomeScreen =()=>{
 
